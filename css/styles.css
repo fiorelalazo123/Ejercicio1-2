@@ -1,0 +1,22 @@
+body{
+ background: -webkit-linear-gradient(90deg, #e74d6b 10%, #8cc8ac 90%);
+  background:    -moz-linear-gradient(90deg, #e74d6b 10%, #8cc8ac 90%);
+  background:     -ms-linear-gradient(90deg, #e74d6b 10%, #8cc8ac 90%);
+  background:      -o-linear-gradient(90deg, #e74d6b 10%, #8cc8ac 90%);
+  background:         linear-gradient(90deg, #e74d6b 10%, #8cc8ac 90%);
+  background: -webkit-linear-gradient(90deg, #65997d 10%, #fccb6e 90%);
+  background:    -moz-linear-gradient(90deg, #65997d 10%, #fccb6e 90%);
+  background:     -ms-linear-gradient(90deg, #65997d 10%, #fccb6e 90%);
+  background:      -o-linear-gradient(90deg, #65997d 10%, #fccb6e 90%);
+  background:         linear-gradient(90deg, #65997d 10%, #fccb6e 90%);
+  margin-bottom: 70px;
+}
+.section-cards {
+  display: flex;
+  margin-top: 30px;
+  justify-content: space-evenly;
+}
+
+.card {
+  max-width: 400px;
+}
